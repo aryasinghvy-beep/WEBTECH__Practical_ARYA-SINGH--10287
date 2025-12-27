@@ -1,0 +1,23 @@
+<!-- Practical 5
+     Name: Arya Singh - 10287
+-->
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<nav>Navigation</nav>
+
+<section>
+    <article>
+        <h3>Article Section</h3>
+        <p>Semantic HTML Example</p>
+    </article>
+</section>
+
+<aside>Side Content</aside>
+
+<footer>© Arya Singh - 10287</footer>
+
+</body>
+</html>
